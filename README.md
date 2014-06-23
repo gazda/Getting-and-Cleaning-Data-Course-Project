@@ -35,9 +35,7 @@ This data file can be read into R with following command:
 tidy <- read.table('tidy_data_set.txt', header = TRUE, sep = ' ')
 ```
 
-File `CodeBook.md` contains the description of the variables present in the tidy data set.
-
-# , and any transformations or work that you performed to clean up the data
+File `CodeBook.md` contains the description of the variables present in the tidy data set and transformations to clean up the data.
 
 ## Prerequisites
 
